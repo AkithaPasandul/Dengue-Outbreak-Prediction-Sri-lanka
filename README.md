@@ -42,7 +42,7 @@ The model aims to support **health authorities** in timely interventions — suc
 | Model | Metrics | Result |
 |--------|----------|---------|
 | Random Forest | RMSE ≈ 38.4, MAE ≈ 25.6, R² ≈ 0.81 | ✅ |
-| SARIMAX | MAE ≈ 2606.58, RMSE ≈ 12341803.04 | ✅ |
+| SARIMAX | MAE ≈ 1494.03, RMSE ≈ 5526358.63 | ✅ |
 | Classifier | ROC-AUC = 0.89, F1 = 0.84 | ✅ |
 
 ---
